@@ -1,0 +1,19 @@
+# 运行依赖
+
+PyQt6==6.11.0
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+onnxruntime==1.30.0
+numpy==2.5.3
+soundcard==0.4.6
+openai==3.23.0
+python-docx==1.2.0
+reportlab==5.0.1
+cryptography==50.0.2
+psutil==7.2.2
+pillow==12.3.0
+
+# 打包用
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.8
+setuptools==84.0.0

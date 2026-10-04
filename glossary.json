@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "description": "物理术语表",
+  "terms": {
+    "Hamiltonian": "哈密顿量",
+    "Lagrangian": "拉格朗日量",
+    "eigenstate": "本征态",
+    "eigenvalue": "本征值",
+    "wavefunction": "波函数",
+    "renormalization": "重整化",
+    "renormalization group": "重整化群"
+  },
+  "fixups": {
+    "哈密顿算子": "哈密顿量",
+    "重正化": "重整化",
+    "重正化群": "重整化群",
+    "自发对称性破缺": "自发对称破缺"
+  }
+}
